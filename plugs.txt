@@ -1,0 +1,12 @@
+- Active File in StatusBar
+- ESLint
+- Highlight Matching Tag
+- JavaScript ES6
+- Marterial Theme
+- npm
+- Path Intellisense
+- Prettier - Code formatter
+- Rainbow Brackets
+- Reactjs code snippets
+- vscode-random
+- WakaTime
